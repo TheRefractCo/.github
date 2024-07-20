@@ -1,2 +1,2 @@
-# .github
-Assets and README.
+# Shhh! 🤫
+This repo is used for the README on our profile!
